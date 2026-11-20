@@ -1,7 +1,7 @@
 {
   "name": "wromm-dotnet-starter",
   "runtimes": [],
-  "system_packages": ["git", "curl", "ca-certificates", "xz-utils", "tar", "gzip", "libicu74"],
+  "system_packages": ["git", "curl", "ca-certificates", "xz-utils", "tar", "gzip", "libicu-dev"],
   "services": [],
   "ports": [],
   "env": {}
